@@ -1,2 +1,2 @@
 # PlatformGame
-Very bad game from гтexperienced developers.
+Very bad game from unexperienced developers.
