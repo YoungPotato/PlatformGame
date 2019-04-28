@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{1C402775-7561-461E-85CD-60B4327C31D7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TheEasyGame/Enemy.cs">
+    <Files>
+      <File FileName="TheEasyGame/Program.cs" Line="10" Column="1" />
+      <File FileName="TheEasyGame/MapCell.cs" Line="12" Column="2" />
+      <File FileName="TheEasyGame/Map.cs" Line="50" Column="10" />
+      <File FileName="TheEasyGame/Hero.cs" Line="21" Column="10" />
+      <File FileName="TheEasyGame/Enemy.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TheEasyGame" expanded="True">
+            <Node name="TheEasyGame" expanded="True">
+              <Node name="Enemy.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TheEasyGame PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

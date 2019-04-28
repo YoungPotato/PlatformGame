@@ -1,0 +1,11 @@
+/Users/Grisha/Projects/TheEasyGame/TheEasyGame/obj/Debug/netcoreapp2.1/TheEasyGame.csprojAssemblyReference.cache
+/Users/Grisha/Projects/TheEasyGame/TheEasyGame/obj/Debug/netcoreapp2.1/TheEasyGame.csproj.CoreCompileInputs.cache
+/Users/Grisha/Projects/TheEasyGame/TheEasyGame/obj/Debug/netcoreapp2.1/TheEasyGame.AssemblyInfoInputs.cache
+/Users/Grisha/Projects/TheEasyGame/TheEasyGame/obj/Debug/netcoreapp2.1/TheEasyGame.AssemblyInfo.cs
+/Users/Grisha/Projects/TheEasyGame/TheEasyGame/bin/Debug/netcoreapp2.1/TheEasyGame.deps.json
+/Users/Grisha/Projects/TheEasyGame/TheEasyGame/bin/Debug/netcoreapp2.1/TheEasyGame.runtimeconfig.json
+/Users/Grisha/Projects/TheEasyGame/TheEasyGame/bin/Debug/netcoreapp2.1/TheEasyGame.runtimeconfig.dev.json
+/Users/Grisha/Projects/TheEasyGame/TheEasyGame/bin/Debug/netcoreapp2.1/TheEasyGame.dll
+/Users/Grisha/Projects/TheEasyGame/TheEasyGame/bin/Debug/netcoreapp2.1/TheEasyGame.pdb
+/Users/Grisha/Projects/TheEasyGame/TheEasyGame/obj/Debug/netcoreapp2.1/TheEasyGame.dll
+/Users/Grisha/Projects/TheEasyGame/TheEasyGame/obj/Debug/netcoreapp2.1/TheEasyGame.pdb
